@@ -1,5 +1,5 @@
 {
-  "appId": "com.makeflow.daftara",
+   "appId": "com.makeflow.daftara.test",
   "appName": "دفترة",
   "webDir": "public",
   "android": {
